@@ -11,6 +11,8 @@ media
 credentials
 data.json
 
+.env
+
 # +++++++++++++++++  terraform +++++++++++++++++++
 
 # Local .terraform directories
